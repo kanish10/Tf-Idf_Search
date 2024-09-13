@@ -23,3 +23,5 @@ Possible future updates (in no particular order)
 2. refer to `main.py` on how to use the `SearchEngine` class
 
 note: if you want to change the max_docs parameter in the SearchEngine constructor and already have run the app on a source path, you will need to delete the `searchUtils/` dir at that source path
+
+dbfdfbdgb
